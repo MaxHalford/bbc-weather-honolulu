@@ -1,0 +1,26 @@
+name: daily
+
+on:
+  schedule:
+    - cron: "30 * * * *" # every hour at the 30 minute mark
+
+jobs:
+  ubuntu:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+
+      - run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git checkout data
+
+      - run: |
+          curl https://weather-broker-cdn.api.bbci.co.uk/en/maps/forecasts-observations\?locations\=5856195 | python -m json.tool > latest_forecast.json
+
+      - run: |
+          git add latest_forecast.json
+          git commit -m "$(date)"
+          git push
