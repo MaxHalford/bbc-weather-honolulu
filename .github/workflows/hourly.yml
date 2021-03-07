@@ -18,7 +18,7 @@ jobs:
           git checkout data
 
       - run: |
-          curl https://weather-broker-cdn.api.bbci.co.uk/en/maps/forecasts-observations\?locations\=5856195 | python -m json.tool > latest_forecast.json
+          curl https://weather-broker-cdn.api.bbci.co.uk/en/maps/forecasts-observations\?locations\=5856195 | python -m json.tool --sort-keys > latest_forecast.json
 
       - run: |
           git add latest_forecast.json
