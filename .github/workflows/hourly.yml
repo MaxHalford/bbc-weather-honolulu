@@ -22,5 +22,5 @@ jobs:
 
       - run: |
           git add latest_forecast.json
-          git commit -m "$(date)"
+          git commit -m "$(date)" --allow-empty
           git push
