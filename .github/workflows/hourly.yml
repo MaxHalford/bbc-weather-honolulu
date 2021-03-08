@@ -18,12 +18,13 @@ jobs:
           git checkout data
 
       - run: |
-          curl https://weather-broker-cdn.api.bbci.co.uk/en/forecast/aggregated/5856195 | python -m json.tool > forecast.json
-          curl https://weather-broker-cdn.api.bbci.co.uk/en/maps/forecasts-observations\?locations\=5856195 | python -m json.tool > current.geojson
-          python extract_observations_from_geojson.py
+          curl https://weather-broker-cdn.api.bbci.co.uk/en/forecast/aggregated/5856195 > forecast.json
+          curl https://weather-broker-cdn.api.bbci.co.uk/en/maps/forecasts-observations\?locations\=5856195 > current.geojson
+          python get_observations.py
+          python get_forecasts.py
 
       - run: |
-          git add forecast.json
+          git add forecasts.json
           git add observations.json
           git commit -m "$(date)" --allow-empty
           git push
