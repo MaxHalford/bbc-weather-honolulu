@@ -13,4 +13,4 @@ for f in forecast['forecasts']:
         del r['windDirectionFull']
 
 with open('forecasts.json', 'w') as f:
-    json.dump(obs, f, indent=4, sort_keys=True)
+    json.dump(forecast['forecasts'], f, indent=4, sort_keys=True)
