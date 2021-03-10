@@ -20,7 +20,7 @@ python build_database.py
 
 This will create a `bbc_weather.sqlite` file. You can load the latter into your preferred database access tool — I have a personal preference for [DataGrip](https://www.jetbrains.com/datagrip/) — to analyse the data. At present, the database contains two tables:
 
-### `forecasts`
+#### `forecasts`
 
 These are the predicted weather values made at one point in time for a future point in time.
 
@@ -32,7 +32,7 @@ These are the predicted weather values made at one point in time for a future po
 | 2021-03-10 09:00:00 | 2021-03-10 14:00:00 |        27 |                   33 |               17 |
 | 2021-03-10 09:00:00 | 2021-03-10 15:00:00 |        26 |                   33 |               17 |
 
-### `observations`
+#### `observations`
 
 These are the weather values that actually occurred — as opposed to those that were forecasted.
 
