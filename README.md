@@ -18,4 +18,9 @@ Then, run the consolidation script:
 python build_database.py
 ```
 
-This will create a `bbc_weather.sqlite` file which you can open into your preferred database access tool -- I have a preference for [DataGrip](https://www.jetbrains.com/datagrip/).
+This will create a `bbc_weather.sqlite` file. You can load the latter into your preferred database access tool — I have a personal preference for [DataGrip](https://www.jetbrains.com/datagrip/) — to analyse the data. At present, the database contains two tables:
+
+- `forecasts`: the predicted weather made at one point in time for a future point in time.
+- `observations`: the actual weather values that occurred.
+
+This project is MIT licensed.
