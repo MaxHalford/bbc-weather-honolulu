@@ -92,11 +92,11 @@ def load_observations_from_commit(commit: git.Commit) -> pd.DataFrame:
 if __name__ == '__main__':
 
     sqlite_conn = sqlite3.connect(SQLITE_PATH)
-    commits = list(git.Repo('.').iter_commits(DATA_BRANCH))
+    oldest_to_latest_commits = list(reversed(list(git.Repo('.').iter_commits(DATA_BRANCH))))
 
     # Forecasts
     if_exists = 'replace'
-    for commit in progress.track(commits, description='Doing forecasts', transient=True):
+    for commit in progress.track(oldest_to_latest_commits, description='Doing forecasts', transient=True):
         try:
             forecasts = load_forecasts_from_commit(commit)
         except FileNotFoundError:
@@ -109,7 +109,7 @@ if __name__ == '__main__':
     # Observations
     if_exists = 'replace'
     latest_at = None
-    for commit in progress.track(commits, description='Doing observations', transient=True):
+    for commit in progress.track(oldest_to_latest_commits, description='Doing observations', transient=True):
         try:
             observations = load_observations_from_commit(commit)
         except FileNotFoundError:
