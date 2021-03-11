@@ -43,3 +43,5 @@ These are the weather values that actually occurred — as opposed to those that
 | 2021-03-09 21:00:00 |        22 |                0 |
 | 2021-03-09 22:00:00 |        21 |                9 |
 | 2021-03-09 23:00:00 |        21 |                0 |
+
+Check out the `measure_accuracy.sql` for an example of how to evaluate the correctness of the forecasts.
