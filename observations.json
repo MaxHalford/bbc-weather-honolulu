@@ -389,5 +389,28 @@
             "description": "Southerly",
             "direction": "S"
         }
+    },
+    {
+        "averageWindSpeed": {
+            "kph": 9,
+            "mph": 6
+        },
+        "maxWindGustSpeed": {
+            "kph": null,
+            "mph": null
+        },
+        "temperature": {
+            "c": 23,
+            "f": 73
+        },
+        "time": {
+            "offset": "-10:00",
+            "timezone": "Pacific/Honolulu",
+            "utc": "2021-03-12T03:00:00Z"
+        },
+        "windDirection": {
+            "description": "South South Westerly",
+            "direction": "SSW"
+        }
     }
 ]
