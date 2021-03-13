@@ -343,5 +343,51 @@
             "description": "South Westerly",
             "direction": "SW"
         }
+    },
+    {
+        "averageWindSpeed": {
+            "kph": 5,
+            "mph": 3
+        },
+        "maxWindGustSpeed": {
+            "kph": 50,
+            "mph": 31
+        },
+        "temperature": {
+            "c": 22,
+            "f": 72
+        },
+        "time": {
+            "offset": "-10:00",
+            "timezone": "Pacific/Honolulu",
+            "utc": "2021-03-13T07:00:00Z"
+        },
+        "windDirection": {
+            "description": "Westerly",
+            "direction": "W"
+        }
+    },
+    {
+        "averageWindSpeed": {
+            "kph": 39,
+            "mph": 24
+        },
+        "maxWindGustSpeed": {
+            "kph": null,
+            "mph": null
+        },
+        "temperature": {
+            "c": 21,
+            "f": 70
+        },
+        "time": {
+            "offset": "-10:00",
+            "timezone": "Pacific/Honolulu",
+            "utc": "2021-03-13T08:00:00Z"
+        },
+        "windDirection": {
+            "description": "South South Westerly",
+            "direction": "SSW"
+        }
     }
 ]
