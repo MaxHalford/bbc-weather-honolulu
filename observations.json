@@ -366,5 +366,28 @@
             "description": "North Easterly",
             "direction": "NE"
         }
+    },
+    {
+        "averageWindSpeed": {
+            "kph": 13,
+            "mph": 8
+        },
+        "maxWindGustSpeed": {
+            "kph": null,
+            "mph": null
+        },
+        "temperature": {
+            "c": 21,
+            "f": 70
+        },
+        "time": {
+            "offset": "-10:00",
+            "timezone": "Pacific/Honolulu",
+            "utc": "2021-03-19T16:00:00Z"
+        },
+        "windDirection": {
+            "description": "North Easterly",
+            "direction": "NE"
+        }
     }
 ]
