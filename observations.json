@@ -327,8 +327,8 @@
             "mph": 14
         },
         "maxWindGustSpeed": {
-            "kph": null,
-            "mph": null
+            "kph": 54,
+            "mph": 33
         },
         "temperature": {
             "c": 26,
@@ -338,6 +338,29 @@
             "offset": "-10:00",
             "timezone": "Pacific/Honolulu",
             "utc": "2021-03-20T00:00:00Z"
+        },
+        "windDirection": {
+            "description": "East North Easterly",
+            "direction": "ENE"
+        }
+    },
+    {
+        "averageWindSpeed": {
+            "kph": 39,
+            "mph": 24
+        },
+        "maxWindGustSpeed": {
+            "kph": null,
+            "mph": null
+        },
+        "temperature": {
+            "c": 26,
+            "f": 79
+        },
+        "time": {
+            "offset": "-10:00",
+            "timezone": "Pacific/Honolulu",
+            "utc": "2021-03-20T01:00:00Z"
         },
         "windDirection": {
             "description": "East North Easterly",
