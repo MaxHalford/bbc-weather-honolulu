@@ -297,5 +297,51 @@
             "description": "North North Easterly",
             "direction": "NNE"
         }
+    },
+    {
+        "averageWindSpeed": {
+            "kph": 17,
+            "mph": 10
+        },
+        "maxWindGustSpeed": {
+            "kph": null,
+            "mph": null
+        },
+        "temperature": {
+            "c": 23,
+            "f": 73
+        },
+        "time": {
+            "offset": "-10:00",
+            "timezone": "Pacific/Honolulu",
+            "utc": "2021-04-14T05:00:00Z"
+        },
+        "windDirection": {
+            "description": "North Easterly",
+            "direction": "NE"
+        }
+    },
+    {
+        "averageWindSpeed": {
+            "kph": 17,
+            "mph": 10
+        },
+        "maxWindGustSpeed": {
+            "kph": null,
+            "mph": null
+        },
+        "temperature": {
+            "c": 23,
+            "f": 73
+        },
+        "time": {
+            "offset": "-10:00",
+            "timezone": "Pacific/Honolulu",
+            "utc": "2021-04-14T06:00:00Z"
+        },
+        "windDirection": {
+            "description": "North North Easterly",
+            "direction": "NNE"
+        }
     }
 ]
