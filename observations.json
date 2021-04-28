@@ -1,121 +1,6 @@
 [
     {
         "averageWindSpeed": {
-            "kph": 22,
-            "mph": 14
-        },
-        "maxWindGustSpeed": {
-            "kph": null,
-            "mph": null
-        },
-        "temperature": {
-            "c": 28,
-            "f": 83
-        },
-        "time": {
-            "offset": "-10:00",
-            "timezone": "Pacific/Honolulu",
-            "utc": "2021-04-28T00:00:00Z"
-        },
-        "windDirection": {
-            "description": "South Westerly",
-            "direction": "SW"
-        }
-    },
-    {
-        "averageWindSpeed": {
-            "kph": 26,
-            "mph": 16
-        },
-        "maxWindGustSpeed": {
-            "kph": null,
-            "mph": null
-        },
-        "temperature": {
-            "c": 28,
-            "f": 82
-        },
-        "time": {
-            "offset": "-10:00",
-            "timezone": "Pacific/Honolulu",
-            "utc": "2021-04-28T01:00:00Z"
-        },
-        "windDirection": {
-            "description": "South Westerly",
-            "direction": "SW"
-        }
-    },
-    {
-        "averageWindSpeed": {
-            "kph": 26,
-            "mph": 16
-        },
-        "maxWindGustSpeed": {
-            "kph": null,
-            "mph": null
-        },
-        "temperature": {
-            "c": 28,
-            "f": 82
-        },
-        "time": {
-            "offset": "-10:00",
-            "timezone": "Pacific/Honolulu",
-            "utc": "2021-04-28T02:00:00Z"
-        },
-        "windDirection": {
-            "description": "South Westerly",
-            "direction": "SW"
-        }
-    },
-    {
-        "averageWindSpeed": {
-            "kph": 24,
-            "mph": 15
-        },
-        "maxWindGustSpeed": {
-            "kph": null,
-            "mph": null
-        },
-        "temperature": {
-            "c": 27,
-            "f": 81
-        },
-        "time": {
-            "offset": "-10:00",
-            "timezone": "Pacific/Honolulu",
-            "utc": "2021-04-28T03:00:00Z"
-        },
-        "windDirection": {
-            "description": "South Westerly",
-            "direction": "SW"
-        }
-    },
-    {
-        "averageWindSpeed": {
-            "kph": 24,
-            "mph": 15
-        },
-        "maxWindGustSpeed": {
-            "kph": null,
-            "mph": null
-        },
-        "temperature": {
-            "c": 27,
-            "f": 81
-        },
-        "time": {
-            "offset": "-10:00",
-            "timezone": "Pacific/Honolulu",
-            "utc": "2021-04-28T04:00:00Z"
-        },
-        "windDirection": {
-            "description": "West South Westerly",
-            "direction": "WSW"
-        }
-    },
-    {
-        "averageWindSpeed": {
             "kph": 21,
             "mph": 13
         },
@@ -388,6 +273,52 @@
         "windDirection": {
             "description": "Northerly",
             "direction": "N"
+        }
+    },
+    {
+        "averageWindSpeed": {
+            "kph": 5,
+            "mph": 3
+        },
+        "maxWindGustSpeed": {
+            "kph": null,
+            "mph": null
+        },
+        "temperature": {
+            "c": 22,
+            "f": 72
+        },
+        "time": {
+            "offset": "-10:00",
+            "timezone": "Pacific/Honolulu",
+            "utc": "2021-04-28T17:00:00Z"
+        },
+        "windDirection": {
+            "description": "Northerly",
+            "direction": "N"
+        }
+    },
+    {
+        "averageWindSpeed": {
+            "kph": 5,
+            "mph": 3
+        },
+        "maxWindGustSpeed": {
+            "kph": null,
+            "mph": null
+        },
+        "temperature": {
+            "c": 26,
+            "f": 78
+        },
+        "time": {
+            "offset": "-10:00",
+            "timezone": "Pacific/Honolulu",
+            "utc": "2021-04-28T18:00:00Z"
+        },
+        "windDirection": {
+            "description": "North North Westerly",
+            "direction": "NNW"
         }
     }
 ]
