@@ -304,6 +304,75 @@
             "mph": 16
         },
         "maxWindGustSpeed": {
+            "kph": 52,
+            "mph": 32
+        },
+        "temperature": {
+            "c": 28,
+            "f": 82
+        },
+        "time": {
+            "offset": "-10:00",
+            "timezone": "Pacific/Honolulu",
+            "utc": "2021-05-17T23:00:00Z"
+        },
+        "windDirection": {
+            "description": "North Easterly",
+            "direction": "NE"
+        }
+    },
+    {
+        "averageWindSpeed": {
+            "kph": 37,
+            "mph": 23
+        },
+        "maxWindGustSpeed": {
+            "kph": 52,
+            "mph": 32
+        },
+        "temperature": {
+            "c": 29,
+            "f": 84
+        },
+        "time": {
+            "offset": "-10:00",
+            "timezone": "Pacific/Honolulu",
+            "utc": "2021-05-18T00:00:00Z"
+        },
+        "windDirection": {
+            "description": "East North Easterly",
+            "direction": "ENE"
+        }
+    },
+    {
+        "averageWindSpeed": {
+            "kph": 37,
+            "mph": 23
+        },
+        "maxWindGustSpeed": {
+            "kph": 50,
+            "mph": 31
+        },
+        "temperature": {
+            "c": 29,
+            "f": 84
+        },
+        "time": {
+            "offset": "-10:00",
+            "timezone": "Pacific/Honolulu",
+            "utc": "2021-05-18T01:00:00Z"
+        },
+        "windDirection": {
+            "description": "East North Easterly",
+            "direction": "ENE"
+        }
+    },
+    {
+        "averageWindSpeed": {
+            "kph": 24,
+            "mph": 15
+        },
+        "maxWindGustSpeed": {
             "kph": null,
             "mph": null
         },
@@ -314,7 +383,7 @@
         "time": {
             "offset": "-10:00",
             "timezone": "Pacific/Honolulu",
-            "utc": "2021-05-17T23:00:00Z"
+            "utc": "2021-05-18T02:00:00Z"
         },
         "windDirection": {
             "description": "North Easterly",
