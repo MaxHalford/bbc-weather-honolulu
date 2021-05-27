@@ -33,7 +33,7 @@
         },
         "temperature": {
             "c": 31,
-            "f": 88
+            "f": 87
         },
         "time": {
             "offset": "-10:00",
@@ -56,7 +56,7 @@
         },
         "temperature": {
             "c": 31,
-            "f": 88
+            "f": 87
         },
         "time": {
             "offset": "-10:00",
@@ -79,7 +79,7 @@
         },
         "temperature": {
             "c": 29,
-            "f": 84
+            "f": 85
         },
         "time": {
             "offset": "-10:00",
@@ -102,7 +102,7 @@
         },
         "temperature": {
             "c": 28,
-            "f": 82
+            "f": 83
         },
         "time": {
             "offset": "-10:00",
@@ -125,7 +125,7 @@
         },
         "temperature": {
             "c": 27,
-            "f": 81
+            "f": 80
         },
         "time": {
             "offset": "-10:00",
@@ -171,7 +171,7 @@
         },
         "temperature": {
             "c": 26,
-            "f": 79
+            "f": 78
         },
         "time": {
             "offset": "-10:00",
@@ -217,7 +217,7 @@
         },
         "temperature": {
             "c": 24,
-            "f": 75
+            "f": 76
         },
         "time": {
             "offset": "-10:00",
@@ -240,7 +240,7 @@
         },
         "temperature": {
             "c": 24,
-            "f": 75
+            "f": 76
         },
         "time": {
             "offset": "-10:00",
@@ -263,7 +263,7 @@
         },
         "temperature": {
             "c": 24,
-            "f": 75
+            "f": 76
         },
         "time": {
             "offset": "-10:00",
@@ -319,6 +319,75 @@
         "windDirection": {
             "description": "Northerly",
             "direction": "N"
+        }
+    },
+    {
+        "averageWindSpeed": {
+            "kph": 15,
+            "mph": 9
+        },
+        "maxWindGustSpeed": {
+            "kph": null,
+            "mph": null
+        },
+        "temperature": {
+            "c": 24,
+            "f": 75
+        },
+        "time": {
+            "offset": "-10:00",
+            "timezone": "Pacific/Honolulu",
+            "utc": "2021-05-27T14:00:00Z"
+        },
+        "windDirection": {
+            "description": "East North Easterly",
+            "direction": "ENE"
+        }
+    },
+    {
+        "averageWindSpeed": {
+            "kph": 8,
+            "mph": 5
+        },
+        "maxWindGustSpeed": {
+            "kph": null,
+            "mph": null
+        },
+        "temperature": {
+            "c": 24,
+            "f": 75
+        },
+        "time": {
+            "offset": "-10:00",
+            "timezone": "Pacific/Honolulu",
+            "utc": "2021-05-27T15:00:00Z"
+        },
+        "windDirection": {
+            "description": "Direction not available",
+            "direction": "-99"
+        }
+    },
+    {
+        "averageWindSpeed": {
+            "kph": 11,
+            "mph": 7
+        },
+        "maxWindGustSpeed": {
+            "kph": null,
+            "mph": null
+        },
+        "temperature": {
+            "c": 23,
+            "f": 73
+        },
+        "time": {
+            "offset": "-10:00",
+            "timezone": "Pacific/Honolulu",
+            "utc": "2021-05-27T16:00:00Z"
+        },
+        "windDirection": {
+            "description": "North North Westerly",
+            "direction": "NNW"
         }
     }
 ]
