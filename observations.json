@@ -1,121 +1,6 @@
 [
     {
         "averageWindSpeed": {
-            "kph": 24,
-            "mph": 15
-        },
-        "maxWindGustSpeed": {
-            "kph": null,
-            "mph": null
-        },
-        "temperature": {
-            "c": 27,
-            "f": 80
-        },
-        "time": {
-            "offset": "-10:00",
-            "timezone": "Pacific/Honolulu",
-            "utc": "2021-05-27T05:00:00Z"
-        },
-        "windDirection": {
-            "description": "North Easterly",
-            "direction": "NE"
-        }
-    },
-    {
-        "averageWindSpeed": {
-            "kph": 11,
-            "mph": 7
-        },
-        "maxWindGustSpeed": {
-            "kph": null,
-            "mph": null
-        },
-        "temperature": {
-            "c": 26,
-            "f": 78
-        },
-        "time": {
-            "offset": "-10:00",
-            "timezone": "Pacific/Honolulu",
-            "utc": "2021-05-27T06:00:00Z"
-        },
-        "windDirection": {
-            "description": "East North Easterly",
-            "direction": "ENE"
-        }
-    },
-    {
-        "averageWindSpeed": {
-            "kph": 5,
-            "mph": 3
-        },
-        "maxWindGustSpeed": {
-            "kph": null,
-            "mph": null
-        },
-        "temperature": {
-            "c": 26,
-            "f": 78
-        },
-        "time": {
-            "offset": "-10:00",
-            "timezone": "Pacific/Honolulu",
-            "utc": "2021-05-27T07:00:00Z"
-        },
-        "windDirection": {
-            "description": "Northerly",
-            "direction": "N"
-        }
-    },
-    {
-        "averageWindSpeed": {
-            "kph": 9,
-            "mph": 6
-        },
-        "maxWindGustSpeed": {
-            "kph": null,
-            "mph": null
-        },
-        "temperature": {
-            "c": 25,
-            "f": 77
-        },
-        "time": {
-            "offset": "-10:00",
-            "timezone": "Pacific/Honolulu",
-            "utc": "2021-05-27T08:00:00Z"
-        },
-        "windDirection": {
-            "description": "Northerly",
-            "direction": "N"
-        }
-    },
-    {
-        "averageWindSpeed": {
-            "kph": 5,
-            "mph": 3
-        },
-        "maxWindGustSpeed": {
-            "kph": null,
-            "mph": null
-        },
-        "temperature": {
-            "c": 24,
-            "f": 76
-        },
-        "time": {
-            "offset": "-10:00",
-            "timezone": "Pacific/Honolulu",
-            "utc": "2021-05-27T09:00:00Z"
-        },
-        "windDirection": {
-            "description": "Northerly",
-            "direction": "N"
-        }
-    },
-    {
-        "averageWindSpeed": {
             "kph": 0,
             "mph": 0
         },
@@ -361,6 +246,52 @@
             "offset": "-10:00",
             "timezone": "Pacific/Honolulu",
             "utc": "2021-05-27T20:00:00Z"
+        },
+        "windDirection": {
+            "description": "East North Easterly",
+            "direction": "ENE"
+        }
+    },
+    {
+        "averageWindSpeed": {
+            "kph": 18,
+            "mph": 11
+        },
+        "maxWindGustSpeed": {
+            "kph": null,
+            "mph": null
+        },
+        "temperature": {
+            "c": 29,
+            "f": 84
+        },
+        "time": {
+            "offset": "-10:00",
+            "timezone": "Pacific/Honolulu",
+            "utc": "2021-05-27T21:00:00Z"
+        },
+        "windDirection": {
+            "description": "Easterly",
+            "direction": "E"
+        }
+    },
+    {
+        "averageWindSpeed": {
+            "kph": 26,
+            "mph": 16
+        },
+        "maxWindGustSpeed": {
+            "kph": null,
+            "mph": null
+        },
+        "temperature": {
+            "c": 30,
+            "f": 86
+        },
+        "time": {
+            "offset": "-10:00",
+            "timezone": "Pacific/Honolulu",
+            "utc": "2021-05-27T22:00:00Z"
         },
         "windDirection": {
             "description": "East North Easterly",
