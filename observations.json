@@ -297,5 +297,28 @@
             "description": "North North Westerly",
             "direction": "NNW"
         }
+    },
+    {
+        "averageWindSpeed": {
+            "kph": 5,
+            "mph": 3
+        },
+        "maxWindGustSpeed": {
+            "kph": null,
+            "mph": null
+        },
+        "temperature": {
+            "c": 26,
+            "f": 79
+        },
+        "time": {
+            "offset": "-10:00",
+            "timezone": "Pacific/Honolulu",
+            "utc": "2021-05-30T18:00:00Z"
+        },
+        "windDirection": {
+            "description": "East South Easterly",
+            "direction": "ESE"
+        }
     }
 ]
