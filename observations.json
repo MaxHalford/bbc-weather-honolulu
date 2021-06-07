@@ -1,144 +1,6 @@
 [
     {
         "averageWindSpeed": {
-            "kph": 17,
-            "mph": 10
-        },
-        "maxWindGustSpeed": {
-            "kph": null,
-            "mph": null
-        },
-        "temperature": {
-            "c": 25,
-            "f": 77
-        },
-        "time": {
-            "offset": "-10:00",
-            "timezone": "Pacific/Honolulu",
-            "utc": "2021-06-06T10:00:00Z"
-        },
-        "windDirection": {
-            "description": "East North Easterly",
-            "direction": "ENE"
-        }
-    },
-    {
-        "averageWindSpeed": {
-            "kph": 11,
-            "mph": 7
-        },
-        "maxWindGustSpeed": {
-            "kph": null,
-            "mph": null
-        },
-        "temperature": {
-            "c": 25,
-            "f": 77
-        },
-        "time": {
-            "offset": "-10:00",
-            "timezone": "Pacific/Honolulu",
-            "utc": "2021-06-06T11:00:00Z"
-        },
-        "windDirection": {
-            "description": "North Easterly",
-            "direction": "NE"
-        }
-    },
-    {
-        "averageWindSpeed": {
-            "kph": 15,
-            "mph": 9
-        },
-        "maxWindGustSpeed": {
-            "kph": null,
-            "mph": null
-        },
-        "temperature": {
-            "c": 25,
-            "f": 77
-        },
-        "time": {
-            "offset": "-10:00",
-            "timezone": "Pacific/Honolulu",
-            "utc": "2021-06-06T12:00:00Z"
-        },
-        "windDirection": {
-            "description": "North Easterly",
-            "direction": "NE"
-        }
-    },
-    {
-        "averageWindSpeed": {
-            "kph": 18,
-            "mph": 11
-        },
-        "maxWindGustSpeed": {
-            "kph": null,
-            "mph": null
-        },
-        "temperature": {
-            "c": 23,
-            "f": 73
-        },
-        "time": {
-            "offset": "-10:00",
-            "timezone": "Pacific/Honolulu",
-            "utc": "2021-06-06T13:00:00Z"
-        },
-        "windDirection": {
-            "description": "East North Easterly",
-            "direction": "ENE"
-        }
-    },
-    {
-        "averageWindSpeed": {
-            "kph": 11,
-            "mph": 7
-        },
-        "maxWindGustSpeed": {
-            "kph": null,
-            "mph": null
-        },
-        "temperature": {
-            "c": 23,
-            "f": 73
-        },
-        "time": {
-            "offset": "-10:00",
-            "timezone": "Pacific/Honolulu",
-            "utc": "2021-06-06T14:00:00Z"
-        },
-        "windDirection": {
-            "description": "North Easterly",
-            "direction": "NE"
-        }
-    },
-    {
-        "averageWindSpeed": {
-            "kph": 17,
-            "mph": 10
-        },
-        "maxWindGustSpeed": {
-            "kph": null,
-            "mph": null
-        },
-        "temperature": {
-            "c": 24,
-            "f": 75
-        },
-        "time": {
-            "offset": "-10:00",
-            "timezone": "Pacific/Honolulu",
-            "utc": "2021-06-06T15:00:00Z"
-        },
-        "windDirection": {
-            "description": "East North Easterly",
-            "direction": "ENE"
-        }
-    },
-    {
-        "averageWindSpeed": {
             "kph": 21,
             "mph": 13
         },
@@ -407,6 +269,75 @@
             "offset": "-10:00",
             "timezone": "Pacific/Honolulu",
             "utc": "2021-06-07T03:00:00Z"
+        },
+        "windDirection": {
+            "description": "East North Easterly",
+            "direction": "ENE"
+        }
+    },
+    {
+        "averageWindSpeed": {
+            "kph": 26,
+            "mph": 16
+        },
+        "maxWindGustSpeed": {
+            "kph": null,
+            "mph": null
+        },
+        "temperature": {
+            "c": 28,
+            "f": 82
+        },
+        "time": {
+            "offset": "-10:00",
+            "timezone": "Pacific/Honolulu",
+            "utc": "2021-06-07T04:00:00Z"
+        },
+        "windDirection": {
+            "description": "North Easterly",
+            "direction": "NE"
+        }
+    },
+    {
+        "averageWindSpeed": {
+            "kph": 18,
+            "mph": 11
+        },
+        "maxWindGustSpeed": {
+            "kph": null,
+            "mph": null
+        },
+        "temperature": {
+            "c": 26,
+            "f": 79
+        },
+        "time": {
+            "offset": "-10:00",
+            "timezone": "Pacific/Honolulu",
+            "utc": "2021-06-07T05:00:00Z"
+        },
+        "windDirection": {
+            "description": "East North Easterly",
+            "direction": "ENE"
+        }
+    },
+    {
+        "averageWindSpeed": {
+            "kph": 30,
+            "mph": 18
+        },
+        "maxWindGustSpeed": {
+            "kph": null,
+            "mph": null
+        },
+        "temperature": {
+            "c": 26,
+            "f": 78
+        },
+        "time": {
+            "offset": "-10:00",
+            "timezone": "Pacific/Honolulu",
+            "utc": "2021-06-07T06:00:00Z"
         },
         "windDirection": {
             "description": "East North Easterly",
