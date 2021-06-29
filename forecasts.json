@@ -1,62 +1,41 @@
 [
     {
         "issueDate": "2021-06-28T23:00:00-10:00",
-        "lastUpdated": "2021-06-29T00:01:12.607-10:00",
+        "lastUpdated": "2021-06-29T01:05:19.371-10:00",
         "reports": [
             {
                 "extendedWeatherType": 0,
-                "feelsLikeTemperatureC": 29,
-                "feelsLikeTemperatureF": 84,
+                "feelsLikeTemperatureC": 28,
+                "feelsLikeTemperatureF": 83,
                 "gustSpeedKph": 14,
                 "gustSpeedMph": 9,
-                "humidity": 69,
-                "localDate": "2021-06-29",
-                "precipitationProbabilityInPercent": 2,
-                "pressure": 1017,
-                "temperatureC": 24,
-                "temperatureF": 75,
-                "timeslot": "01:00",
-                "timeslotLength": 1,
-                "visibility": "Good",
-                "weatherType": 0,
-                "windDirection": "ENE",
-                "windDirectionAbbreviation": "ENE",
-                "windSpeedKph": 9,
-                "windSpeedMph": 6
-            },
-            {
-                "extendedWeatherType": 0,
-                "feelsLikeTemperatureC": 29,
-                "feelsLikeTemperatureF": 83,
-                "gustSpeedKph": 15,
-                "gustSpeedMph": 9,
-                "humidity": 71,
+                "humidity": 72,
                 "localDate": "2021-06-29",
                 "precipitationProbabilityInPercent": 3,
                 "pressure": 1017,
-                "temperatureC": 24,
-                "temperatureF": 75,
+                "temperatureC": 23,
+                "temperatureF": 74,
                 "timeslot": "02:00",
                 "timeslotLength": 1,
                 "visibility": "Good",
                 "weatherType": 0,
-                "windDirection": "ENE",
-                "windDirectionAbbreviation": "ENE",
-                "windSpeedKph": 9,
+                "windDirection": "NE",
+                "windDirectionAbbreviation": "NE",
+                "windSpeedKph": 8,
                 "windSpeedMph": 5
             },
             {
                 "extendedWeatherType": 0,
                 "feelsLikeTemperatureC": 28,
-                "feelsLikeTemperatureF": 83,
+                "feelsLikeTemperatureF": 82,
                 "gustSpeedKph": 15,
-                "gustSpeedMph": 10,
-                "humidity": 73,
+                "gustSpeedMph": 9,
+                "humidity": 74,
                 "localDate": "2021-06-29",
                 "precipitationProbabilityInPercent": 4,
                 "pressure": 1016,
                 "temperatureC": 23,
-                "temperatureF": 74,
+                "temperatureF": 73,
                 "timeslot": "03:00",
                 "timeslotLength": 1,
                 "visibility": "Good",
@@ -72,12 +51,12 @@
                 "feelsLikeTemperatureF": 81,
                 "gustSpeedKph": 16,
                 "gustSpeedMph": 10,
-                "humidity": 74,
+                "humidity": 76,
                 "localDate": "2021-06-29",
                 "precipitationProbabilityInPercent": 5,
                 "pressure": 1016,
-                "temperatureC": 23,
-                "temperatureF": 73,
+                "temperatureC": 22,
+                "temperatureF": 72,
                 "timeslot": "04:00",
                 "timeslotLength": 1,
                 "visibility": "Good",
@@ -91,9 +70,9 @@
                 "extendedWeatherType": 0,
                 "feelsLikeTemperatureC": 27,
                 "feelsLikeTemperatureF": 80,
-                "gustSpeedKph": 17,
+                "gustSpeedKph": 16,
                 "gustSpeedMph": 10,
-                "humidity": 76,
+                "humidity": 77,
                 "localDate": "2021-06-29",
                 "precipitationProbabilityInPercent": 6,
                 "pressure": 1016,
@@ -112,15 +91,15 @@
     },
     {
         "issueDate": "2021-06-28T23:00:00-10:00",
-        "lastUpdated": "2021-06-29T00:01:12.607-10:00",
+        "lastUpdated": "2021-06-29T01:05:19.371-10:00",
         "reports": [
             {
                 "extendedWeatherType": 1,
                 "feelsLikeTemperatureC": 27,
                 "feelsLikeTemperatureF": 80,
-                "gustSpeedKph": 19,
-                "gustSpeedMph": 12,
-                "humidity": 76,
+                "gustSpeedKph": 18,
+                "gustSpeedMph": 11,
+                "humidity": 77,
                 "localDate": "2021-06-29",
                 "precipitationProbabilityInPercent": 7,
                 "pressure": 1016,
@@ -622,7 +601,7 @@
     },
     {
         "issueDate": "2021-06-28T23:00:00-10:00",
-        "lastUpdated": "2021-06-29T00:01:12.607-10:00",
+        "lastUpdated": "2021-06-29T01:05:19.371-10:00",
         "reports": [
             {
                 "extendedWeatherType": 3,
@@ -779,7 +758,7 @@
                 "gustSpeedMph": 25,
                 "humidity": 48,
                 "localDate": "2021-06-30",
-                "precipitationProbabilityInPercent": 6,
+                "precipitationProbabilityInPercent": 5,
                 "pressure": 1018,
                 "temperatureC": 30,
                 "temperatureF": 85,
@@ -795,12 +774,12 @@
             {
                 "extendedWeatherType": 3,
                 "feelsLikeTemperatureC": 35,
-                "feelsLikeTemperatureF": 95,
+                "feelsLikeTemperatureF": 96,
                 "gustSpeedKph": 41,
                 "gustSpeedMph": 25,
-                "humidity": 48,
+                "humidity": 47,
                 "localDate": "2021-06-30",
-                "precipitationProbabilityInPercent": 5,
+                "precipitationProbabilityInPercent": 4,
                 "pressure": 1017,
                 "temperatureC": 30,
                 "temperatureF": 86,
@@ -1132,7 +1111,7 @@
     },
     {
         "issueDate": "2021-06-28T23:00:00-10:00",
-        "lastUpdated": "2021-06-29T00:01:12.607-10:00",
+        "lastUpdated": "2021-06-29T01:05:19.371-10:00",
         "reports": [
             {
                 "extendedWeatherType": 7,
@@ -1642,7 +1621,7 @@
     },
     {
         "issueDate": "2021-06-28T23:00:00-10:00",
-        "lastUpdated": "2021-06-29T00:01:12.607-10:00",
+        "lastUpdated": "2021-06-29T01:05:19.371-10:00",
         "reports": [
             {
                 "extendedWeatherType": 11,
@@ -2152,7 +2131,7 @@
     },
     {
         "issueDate": "2021-06-28T23:00:00-10:00",
-        "lastUpdated": "2021-06-29T00:01:12.607-10:00",
+        "lastUpdated": "2021-06-29T01:05:19.371-10:00",
         "reports": [
             {
                 "extendedWeatherType": 12,
@@ -2662,7 +2641,7 @@
     },
     {
         "issueDate": "2021-06-28T23:00:00-10:00",
-        "lastUpdated": "2021-06-29T00:01:12.607-10:00",
+        "lastUpdated": "2021-06-29T01:05:19.371-10:00",
         "reports": [
             {
                 "extendedWeatherType": 3,
@@ -3171,8 +3150,8 @@
         ]
     },
     {
-        "issueDate": "2021-06-29T00:01:12-10:00",
-        "lastUpdated": "2021-06-29T00:01:12.607-10:00",
+        "issueDate": "2021-06-28T23:00:00-10:00",
+        "lastUpdated": "2021-06-29T01:05:19.371-10:00",
         "reports": [
             {
                 "extendedWeatherType": 11,
@@ -3681,8 +3660,8 @@
         ]
     },
     {
-        "issueDate": "2021-06-29T00:01:12-10:00",
-        "lastUpdated": "2021-06-29T00:01:12.607-10:00",
+        "issueDate": "2021-06-29T01:05:19-10:00",
+        "lastUpdated": "2021-06-29T01:05:19.371-10:00",
         "reports": [
             {
                 "extendedWeatherType": 3,
@@ -4191,8 +4170,8 @@
         ]
     },
     {
-        "issueDate": "2021-06-29T00:01:12-10:00",
-        "lastUpdated": "2021-06-29T00:01:12.607-10:00",
+        "issueDate": "2021-06-29T01:05:19-10:00",
+        "lastUpdated": "2021-06-29T01:05:19.371-10:00",
         "reports": [
             {
                 "extendedWeatherType": 1,
@@ -4701,8 +4680,8 @@
         ]
     },
     {
-        "issueDate": "2021-06-29T00:01:12-10:00",
-        "lastUpdated": "2021-06-29T00:01:12.607-10:00",
+        "issueDate": "2021-06-29T01:05:19-10:00",
+        "lastUpdated": "2021-06-29T01:05:19.371-10:00",
         "reports": [
             {
                 "extendedWeatherType": 1,
@@ -5211,8 +5190,8 @@
         ]
     },
     {
-        "issueDate": "2021-06-29T00:01:12-10:00",
-        "lastUpdated": "2021-06-29T00:01:12.607-10:00",
+        "issueDate": "2021-06-29T01:05:19-10:00",
+        "lastUpdated": "2021-06-29T01:05:19.371-10:00",
         "reports": [
             {
                 "extendedWeatherType": 3,
@@ -5721,8 +5700,8 @@
         ]
     },
     {
-        "issueDate": "2021-06-29T00:01:12-10:00",
-        "lastUpdated": "2021-06-29T00:01:12.607-10:00",
+        "issueDate": "2021-06-29T01:05:19-10:00",
+        "lastUpdated": "2021-06-29T01:05:19.371-10:00",
         "reports": [
             {
                 "extendedWeatherType": 3,
@@ -6231,8 +6210,8 @@
         ]
     },
     {
-        "issueDate": "2021-06-29T00:01:12-10:00",
-        "lastUpdated": "2021-06-29T00:01:12.607-10:00",
+        "issueDate": "2021-06-29T01:05:19-10:00",
+        "lastUpdated": "2021-06-29T01:05:19.371-10:00",
         "reports": [
             {
                 "extendedWeatherType": 3,
