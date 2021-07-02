@@ -33,7 +33,7 @@
         },
         "temperature": {
             "c": 31,
-            "f": 88
+            "f": 87
         },
         "time": {
             "offset": "-10:00",
@@ -102,7 +102,7 @@
         },
         "temperature": {
             "c": 28,
-            "f": 82
+            "f": 83
         },
         "time": {
             "offset": "-10:00",
@@ -125,7 +125,7 @@
         },
         "temperature": {
             "c": 27,
-            "f": 81
+            "f": 80
         },
         "time": {
             "offset": "-10:00",
@@ -171,7 +171,7 @@
         },
         "temperature": {
             "c": 27,
-            "f": 81
+            "f": 80
         },
         "time": {
             "offset": "-10:00",
@@ -194,7 +194,7 @@
         },
         "temperature": {
             "c": 27,
-            "f": 81
+            "f": 80
         },
         "time": {
             "offset": "-10:00",
@@ -240,7 +240,7 @@
         },
         "temperature": {
             "c": 26,
-            "f": 79
+            "f": 78
         },
         "time": {
             "offset": "-10:00",
@@ -263,7 +263,7 @@
         },
         "temperature": {
             "c": 26,
-            "f": 79
+            "f": 78
         },
         "time": {
             "offset": "-10:00",
@@ -309,7 +309,7 @@
         },
         "temperature": {
             "c": 26,
-            "f": 79
+            "f": 78
         },
         "time": {
             "offset": "-10:00",
@@ -332,12 +332,35 @@
         },
         "temperature": {
             "c": 26,
-            "f": 79
+            "f": 78
         },
         "time": {
             "offset": "-10:00",
             "timezone": "Pacific/Honolulu",
             "utc": "2021-07-02T14:00:00Z"
+        },
+        "windDirection": {
+            "description": "East North Easterly",
+            "direction": "ENE"
+        }
+    },
+    {
+        "averageWindSpeed": {
+            "kph": 21,
+            "mph": 13
+        },
+        "maxWindGustSpeed": {
+            "kph": null,
+            "mph": null
+        },
+        "temperature": {
+            "c": 26,
+            "f": 79
+        },
+        "time": {
+            "offset": "-10:00",
+            "timezone": "Pacific/Honolulu",
+            "utc": "2021-07-02T15:00:00Z"
         },
         "windDirection": {
             "description": "East North Easterly",
